@@ -9,7 +9,7 @@ What was your favorite Ops Challenge assignment and why?My favorite code assigne
 
 What scripts would you continue to improve if you had the time?Truthfully I have learned a lot but i know that im not efficient in doing the scripts well  just yet so i want to learn everything.
 
-What aspect of your shell scripting skillset do you hope to improve next?Like I stated in the previous question I wpould like to learn everything but some aspects I would like to improve are when and where to put symbols and the meanings of the symbols.
+What aspect of your shell scripting skillset do you hope to improve next?Like I stated in the previous question I would like to learn everything but some aspects I would like to improve on are when and where to put symbols and the meanings of the symbols.
 
 How can these examples of shell scripting be applied to the workplace?I'll say In customer support because shell scripting can be used to automate tasks such as log analysis, ticket routing, and data collection. For example, a shell script could be used to monitor system logs for errors, or to collect diagnostic data from a customer's system for troubleshooting purposes.
 
